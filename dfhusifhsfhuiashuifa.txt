@@ -1,0 +1,35 @@
+
+
+local _oUchJvMwknFW
+local t
+local d
+local f
+local k
+local h
+local s
+
+local function obfuscateCode(a)
+    _oUchJvMwknFW = a
+end
+
+local function executeCode(r, ...)
+    local e = 24915
+    local n = 0
+    local l = {}
+
+    while n < 599 do
+        n = n + 1
+        while n < 0x135 and e % 0xf9e < 0x7cf do
+            n = n + 1
+            e = (e - 240) % 35982
+            local o = n + e
+
+            .+ -
+
+        end
+    end
+end
+
+-- Obfuscation code entry point
+obfuscateCode(.+) -
+6777
